@@ -1,0 +1,23 @@
+int first = 3;
+int second = 2;
+double result1 = (double)first / second;  // result is: 1.5
+
+double result2 = first / (double)second;  // result is: 1.5
+
+double result3 = (double)(first / second);  // result is: 1
+    
+
+import java.util.Scanner;
+
+public class ProgramBody {
+    public static void main(String[] args) {
+        Scanner reader = new Scanner(System.in);
+
+		String name = reader.nextLine();	 // for string
+		int age = Integer.parseInt(reader.nextLine()); // Reads a string variable from the keyboard and transfers it to an integer
+
+
+condition1 && condition2   //is true if both conditions are true.
+condition1 || condition2   //is true if either of the conditions are true.
+!condition   //is true if the condition is false.
+
