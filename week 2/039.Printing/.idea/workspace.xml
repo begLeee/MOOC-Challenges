@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6079a5b4-85ab-4b7c-aefa-d8a7d4e04e68" name="Default" comment="" />
+    <list default="true" id="68febbcd-a2f6-4be9-8fb5-7754c28418d3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoopsEndingRemembering.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LoopsEndingRemembering.java">
+      <file leaf-file-name="Printing.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Printing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="817">
+              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintingTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/PrintingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -26,7 +35,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LoopsEndingRemembering.java" />
+        <option value="$PROJECT_DIR$/src/Printing.java" />
       </list>
     </option>
   </component>
@@ -40,25 +49,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="036.LoopsEndingRemembering" type="b2602c69:ProjectViewProjectNode" />
-              <item name="036.LoopsEndingRemembering" type="462c0819:PsiDirectoryNode" />
+              <item name="039.Printing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="039.Printing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="036.LoopsEndingRemembering" type="b2602c69:ProjectViewProjectNode" />
-              <item name="036.LoopsEndingRemembering" type="462c0819:PsiDirectoryNode" />
+              <item name="039.Printing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="039.Printing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="039.Printing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="039.Printing" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -73,16 +87,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Part5Test">
+  <component name="RunManager" selected="JUnit.PrintingTest">
+    <configuration name="Printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Printing" />
+      <module name="039.Printing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Part2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="036.LoopsEndingRemembering" />
+    <configuration name="PrintingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="039.Printing" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Part2Test" />
+      <option name="MAIN_CLASS_NAME" value="PrintingTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -94,13 +113,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Part3Test.testi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="036.LoopsEndingRemembering" />
+    <configuration name="PrintingTest.printSquareTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="039.Printing" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Part3Test" />
-      <option name="METHOD_NAME" value="testi" />
+      <option name="MAIN_CLASS_NAME" value="PrintingTest" />
+      <option name="METHOD_NAME" value="printSquareTest1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -111,13 +130,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Part4Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="036.LoopsEndingRemembering" />
+    <configuration name="PrintingTest.printSquareTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="039.Printing" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Part4Test" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="PrintingTest" />
+      <option name="METHOD_NAME" value="printSquareTest2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -128,30 +147,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Part5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="036.LoopsEndingRemembering" />
+    <configuration name="PrintingTest.printStarsTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="039.Printing" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Part5Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Part5bTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="036.LoopsEndingRemembering" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Part5bTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="PrintingTest" />
+      <option name="METHOD_NAME" value="printStarsTest2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -201,19 +203,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Part2Test" />
-      <item itemvalue="JUnit.Part3Test.testi" />
-      <item itemvalue="JUnit.Part4Test.test" />
-      <item itemvalue="JUnit.Part5bTest.test" />
-      <item itemvalue="JUnit.Part5Test" />
+      <item itemvalue="Application.Printing" />
+      <item itemvalue="JUnit.PrintingTest" />
+      <item itemvalue="JUnit.PrintingTest.printSquareTest1" />
+      <item itemvalue="JUnit.PrintingTest.printSquareTest2" />
+      <item itemvalue="JUnit.PrintingTest.printStarsTest2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Part5Test" />
-        <item itemvalue="JUnit.Part5bTest.test" />
-        <item itemvalue="JUnit.Part4Test.test" />
-        <item itemvalue="JUnit.Part3Test.testi" />
-        <item itemvalue="JUnit.Part2Test" />
+        <item itemvalue="JUnit.PrintingTest" />
+        <item itemvalue="Application.Printing" />
+        <item itemvalue="JUnit.PrintingTest.printStarsTest2" />
+        <item itemvalue="JUnit.PrintingTest.printSquareTest2" />
+        <item itemvalue="JUnit.PrintingTest.printSquareTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -222,44 +224,44 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6079a5b4-85ab-4b7c-aefa-d8a7d4e04e68" name="Default" comment="" />
-      <created>1535298653614</created>
+      <changelist id="68febbcd-a2f6-4be9-8fb5-7754c28418d3" name="Default" comment="" />
+      <created>1536608169128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1535298653614</updated>
+      <updated>1536608169128</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Part1Test_test - 2018.08.26 at 18h 51m 28s.xml">
-      <configuration name="Part1Test.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest - 2018.09.14 at 16h 47m 13s.xml">
+      <configuration name="PrintingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part1Test_test - 2018.08.26 at 18h 56m 00s.xml">
-      <configuration name="Part1Test.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest_printSquareTest1 - 2018.09.14 at 17h 02m 44s.xml">
+      <configuration name="PrintingTest.printSquareTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part2Test_test - 2018.08.26 at 18h 58m 46s.xml">
-      <configuration name="Part2Test.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest_printSquareTest2 - 2018.09.14 at 17h 03m 41s.xml">
+      <configuration name="PrintingTest.printSquareTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part1Test_test - 2018.08.26 at 18h 59m 44s.xml">
-      <configuration name="Part1Test.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest - 2018.09.14 at 17h 05m 40s.xml">
+      <configuration name="PrintingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part2Test - 2018.08.26 at 19h 00m 00s.xml">
-      <configuration name="Part2Test" configurationId="JUnit" />
+    <history-entry file="PrintingTest - 2018.09.14 at 17h 07m 19s.xml">
+      <configuration name="PrintingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part2Test - 2018.08.26 at 19h 01m 31s.xml">
-      <configuration name="Part2Test" configurationId="JUnit" />
+    <history-entry file="PrintingTest_printStarsTest2 - 2018.09.14 at 17h 08m 21s.xml">
+      <configuration name="PrintingTest.printStarsTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part3Test_testi - 2018.08.26 at 19h 03m 12s.xml">
-      <configuration name="Part3Test.testi" configurationId="JUnit" />
+    <history-entry file="PrintingTest_printStarsTest2 - 2018.09.14 at 17h 08m 26s.xml">
+      <configuration name="PrintingTest.printStarsTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part4Test_test - 2018.08.26 at 19h 06m 07s.xml">
-      <configuration name="Part4Test.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest_printStarsTest2 - 2018.09.14 at 17h 11m 56s.xml">
+      <configuration name="PrintingTest.printStarsTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part5bTest_test - 2018.08.26 at 19h 10m 40s.xml">
-      <configuration name="Part5bTest.test" configurationId="JUnit" />
+    <history-entry file="PrintingTest - 2018.09.14 at 17h 12m 37s.xml">
+      <configuration name="PrintingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Part5Test - 2018.08.26 at 19h 10m 45s.xml">
-      <configuration name="Part5Test" configurationId="JUnit" />
+    <history-entry file="PrintingTest - 2018.09.14 at 17h 14m 15s.xml">
+      <configuration name="PrintingTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -268,17 +270,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3286385" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.6134585" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2112676" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31455398" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -291,66 +294,44 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LoopsEndingRemembering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part4Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part5bTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Part5Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Printing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoopsEndingRemembering.java">
+    <entry file="file://$PROJECT_DIR$/test/PrintingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="893">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PrintingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Printing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
         </state>
       </provider>
     </entry>

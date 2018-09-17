@@ -21,3 +21,8 @@ condition1 && condition2   //is true if both conditions are true.
 condition1 || condition2   //is true if either of the conditions are true.
 !condition   //is true if the condition is false.
 
+length += 10;  // same as length = length + 10;
+length -= 50;  // same as length = length - 50;
+length *= 10;   // same as length = length * 10;
+length /= 100;  // same as length = length / 100;
+length %= 3;    // same as length = length % 3;
