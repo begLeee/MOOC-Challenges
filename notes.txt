@@ -26,3 +26,16 @@ length -= 50;  // same as length = length - 50;
 length *= 10;   // same as length = length * 10;
 length /= 100;  // same as length = length / 100;
 length %= 3;    // same as length = length % 3;
+
+something.equals("TTT") // comparing the string
+somthing.length() // length of string
+
+char() // single char. string
+charAt(index) // uses the index of the location as a parameter
+
+substring() // reads only a specific part of a string
+String word = "Supercalifragilisticexpialidocious";
+System.out.println(word.substring(14)); //prints "listicexpialidocious"
+System.out.println(word.substring(9,20)); //prints "fragilistic"
+
+indexOf() // searches for the word given as a parameter in a string

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5752ea0e-f532-4289-96db-082861563291" name="Default" comment="" />
+    <list default="true" id="ebdb2f2b-b9a0-4492-a76c-07bb71df7166" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,22 +11,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HangmanUserInteface.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HangmanUserInteface.java">
+    <leaf>
+      <file leaf-file-name="LastCharacter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LastCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HangmanUserInteface.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/042.Hangman/HangmanUserInteface.class">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -34,7 +26,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HangmanUserInteface.java" />
+        <option value="$PROJECT_DIR$/src/LastCharacter.java" />
       </list>
     </option>
   </component>
@@ -49,34 +41,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="042.Hangman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="042.Hangman" type="462c0819:PsiDirectoryNode" />
+              <item name="049.LastCharacter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="049.LastCharacter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="042.Hangman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="042.Hangman" type="462c0819:PsiDirectoryNode" />
-              <item name="nbproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="042.Hangman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="042.Hangman" type="462c0819:PsiDirectoryNode" />
+              <item name="049.LastCharacter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="049.LastCharacter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="042.Hangman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="042.Hangman" type="462c0819:PsiDirectoryNode" />
+              <item name="049.LastCharacter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="049.LastCharacter" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -91,21 +78,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HangmanTest">
-    <configuration name="HangmanUserInteface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HangmanUserInteface" />
-      <module name="042.Hangman" />
+  <component name="RunManager" selected="JUnit.LastCharacterTest">
+    <configuration name="LastCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastCharacter" />
+      <module name="049.LastCharacter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="HangmanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="042.Hangman" />
+    <configuration name="LastCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="049.LastCharacter" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HangmanTest" />
+      <option name="MAIN_CLASS_NAME" value="LastCharacterTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -156,13 +143,13 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HangmanUserInteface" />
-      <item itemvalue="JUnit.HangmanTest" />
+      <item itemvalue="Application.LastCharacter" />
+      <item itemvalue="JUnit.LastCharacterTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HangmanTest" />
-        <item itemvalue="Application.HangmanUserInteface" />
+        <item itemvalue="JUnit.LastCharacterTest" />
+        <item itemvalue="Application.LastCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -171,73 +158,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5752ea0e-f532-4289-96db-082861563291" name="Default" comment="" />
-      <created>1537182248414</created>
+      <changelist id="ebdb2f2b-b9a0-4492-a76c-07bb71df7166" name="Default" comment="" />
+      <created>1537282355529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537182248414</updated>
+      <updated>1537282355529</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LastCharacterTest - 2018.09.18 at 17h 58m 02s.xml">
+      <configuration name="LastCharacterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HangmanUserInteface.java">
+    <entry file="file://$PROJECT_DIR$/src/LastCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/042.Hangman/HangmanUserInteface.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/042.Hangman/HangmanUserInteface.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HangmanUserInteface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
