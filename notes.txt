@@ -39,3 +39,26 @@ System.out.println(word.substring(14)); //prints "listicexpialidocious"
 System.out.println(word.substring(9,20)); //prints "fragilistic"
 
 indexOf() // searches for the word given as a parameter in a string
+
+Arrays
+import java.util.ArrayList;
+.add() // adds new string
+.size() // tells us the amount of strings in the list
+.get(i) // get the value from the index (location) i in the list
+.remove("something") / .remove(i) // removes string from array
+.contains("something") // asking the list if it contains the string given as a parameter
+
+/* for integers
+numbers.remove(4); // tries to remove the number from the index 4, does not work as expected!
+numbers.remove(Integer.valueOf(4));  // this removes the number 4 from the list
+    
+
+for (String teacher : teachers) {
+        System.out.println( teacher );
+    }
+
+Collection.sort(yourArray) // alphabetic order (list).
+Collection.shuffle(yourArray) // shuffles the list items, can be useful for example in games
+Collection.reverse() // reverses the order of list items
+
+
