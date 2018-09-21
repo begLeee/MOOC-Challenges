@@ -46,6 +46,7 @@ import java.util.ArrayList;
 .size() // tells us the amount of strings in the list
 .get(i) // get the value from the index (location) i in the list
 .remove("something") / .remove(i) // removes string from array
+.clear() // clears an array
 .contains("something") // asking the list if it contains the string given as a parameter
 
 /* for integers
